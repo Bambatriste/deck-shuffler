@@ -1,2 +1,1 @@
-# deck-shuffler
-just a little card game code
+just a little deck shuffler in C++
